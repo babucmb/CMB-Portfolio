@@ -24,30 +24,30 @@
 ### 📌 Featured Projects  
 #### 🏆 **1. Title Sentiment Analysis on Movie Reviews**  
 - Built a deep learning model to analyze sentiment in movie review titles.  
-- Used **Natural Language Processing (NLP)** and **LSTM Networks**.  
-- 📂 [GitHub Repository](https://github.com/CMB/movie-sentiment-analysis)  
+- Used **Natural Language Processing (NLP)** and **LSTM Networks**.
+- 
 
 #### 🔍 **2. Automated Cancer Detection from Blood Cell Images**  
 - Developed a **CNN-based model** to classify normal vs. cancerous cells.  
 - Achieved high accuracy using **image processing and deep learning**.  
-- 📂 [GitHub Repository](https://github.com/CMB/cancer-detection)  
-
+-
 #### 🚕 **3. Cab Booking System**  
 - Created a system to allow users to book cabs efficiently.  
 - Developed using **Python, SQL, and Flask**.  
-- 📂 [GitHub Repository](https://github.com/CMB/cab-booking)  
+-  
 
 ---
 
 ### 🏆 Certifications  
 - **Google AIML Virtual Internship**  
-- **NSIC Certifications:** Python, Java, Cybersecurity, Data Science  
+- **NSIC Certifications:** Python, Java, Cybersecurity, Data Science
+- **Accenture Completions Certification:**  Data Analytics and Visualization Job Simulation
 
 ---
 
 ### 📫 Connect with Me  
 [![LinkedIn](linkedin.com/in/chilakani-mahesh-babu-6b0232321)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/CMB)  
+  
 [![Portfolio](https://github.com/babucmb/CMB-Portfolio)  
 
 🚀 **Let's innovate together!**
