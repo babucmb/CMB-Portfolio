@@ -46,8 +46,8 @@
 ---
 
 ### 📫 Connect with Me  
-[![LinkedIn](linkedin.com/in/chilakani-mahesh-babu-6b0232321)  
+[![LinkedIn](https://www.linkedin.com/in/chilakani-mahesh-babu-6b0232321)  
   
-[![Portfolio](https://github.com/babucmb/CMB-Portfolio)  
+[![Portfolio](https://babucmb.github.io/CMB-WEB/)
 
 🚀 **Let's innovate together!**
